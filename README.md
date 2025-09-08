@@ -178,9 +178,8 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 Si tienes preguntas o necesitas ayuda:
 
-- 📧 Email: [tu-email@ejemplo.com]
-- 🐛 Issues: [Crear un issue en GitHub]
-- 📖 Documentación: [Enlace a documentación adicional]
+- 📧 Email: [braianoquen@gmail.com]
+
 
 ## 🔄 Changelog
 
